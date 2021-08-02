@@ -1,0 +1,3 @@
+# ninja log v5
+1	6057	0	/mnt/HDD2/lcp/6DPoseEstimation/seg-deformnet/lib/nn_distance/build/temp.linux-x86_64-3.8/src/nn_distance_cuda.o	3f515b0862dad24b
+0	14080	0	/mnt/HDD2/lcp/6DPoseEstimation/seg-deformnet/lib/nn_distance/build/temp.linux-x86_64-3.8/src/nn_distance.o	53ba3faaf8022cf4
