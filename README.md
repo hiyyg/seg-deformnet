@@ -1,4 +1,6 @@
 # Seg-D: Segmentation-driven Shape Deformation for Categorical 6D Object Pose and Size Estimation
+overview
+![overview_image](https://github.com/Liuchongpei/seg-deformnet/blob/master/figs/overview.png)
 The code will be coming soon.
 ## Dependencies
   python 3.8  
